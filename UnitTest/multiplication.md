@@ -1,5 +1,5 @@
-Expect multiply (1, 2) to be 2
-Expect multiply (3, 3) to be 9
-Expect multiply (2, 5) to be 10
-Expect multiply (5, 5) to be 25
-Expect multiply (10, 15) to be 150
+Expect multiply (1 * 2) to be (2)
+Expect multiply (3 * 3) to be (9)
+Expect multiply (2 * 5) to be (10)
+Expect multiply (5 * 5) to be (25)
+Expect multiply (10 * 15) to be (150)

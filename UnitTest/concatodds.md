@@ -1,0 +1,5 @@
+Expect concatOdds([1,2,3,4,5], [6,7,8,9,10]) to result in [1,3,5,7,9]
+Expect concatOdds([4,-1,10,8], [3,9,27,16]) to result in [-1,3,9,27]
+Expect concatOdds([11,14,88,91], [22,-11,-75,18]) to result in [-75,-11,11,91]
+Expect concatOdds([3,11,84,90], [-3,-8,-111,5]) to result in [-111,-3,11,3,5]
+Expect concatOdds([21,22,1000,1055], [-1055,-1000,-5,100]) to result in [-1055,-5,21,1055]
